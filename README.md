@@ -1,2 +1,11 @@
-# Discord-SpacegrayEdit
-A Discord theme based off of Spacegray syntax theme with some minor color changes
+# Discord-SpacegrayEdit [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
+A [Discord](https://discord.gg) theme based off of [Material Spacegray](https://github.com/saadq/Materialize/blob/master/themes/Material%20Spacegray.sublime-theme) syntax theme with some minor color changes
+
+## Included
+- Spacegray Syntax background
+- Teal elements by default
+- Classic, non-rounded embeds
+- Atom One Dark syntax for codeblocks
+
+## Screenshots
+soon:tm:
