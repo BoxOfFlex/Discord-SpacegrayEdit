@@ -8,4 +8,5 @@ A [Discord](https://discord.gg) theme based off of [Material Spacegray](https://
 - Atom One Dark syntax for codeblocks
 
 ## Screenshots
-soon:tm:
+[!All elements](https://cdn.rawgit.com/LUModder/Discord-SpacegrayEdit/master/theme-all.png)
+[!Code Blocks](https://cdn.rawgit.com/LUModder/Discord-SpacegrayEdit/master/theme-code.png)
